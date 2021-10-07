@@ -29,7 +29,7 @@ ul li label {
   cursor: pointer;
 }
 button {
-  background-color: #8e44ad;
+  background-color: #032b43;
   border: none;
   color: #fff;
   cursor: pointer;
@@ -40,7 +40,7 @@ button {
   padding: 1.5rem;
 }
 .quiz-container {
-  background-color: #fff;
+  background-color: #eee;
   border-radius: 10px;
   overflow: hidden;
   width: 500px;
@@ -50,5 +50,5 @@ button {
   padding: 4rem;
 }
 .btn-submit:hover {
-  background-color: #732d91;
+  background-color: #6c969d;
 }
