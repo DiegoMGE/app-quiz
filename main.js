@@ -99,7 +99,7 @@ submit.addEventListener("click", () => {
       quiz.innerHTML = `
         <h2>You answered correctly at ${score}/${quizData.length} questions.</h2>
 
-        <button onclick="location.reload()">Play again</button>
+        <button onclick="location.reload()">Play Again!</button>
       `;
     }
   }
